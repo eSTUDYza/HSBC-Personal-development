@@ -1,18 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="personal.com" resolutions="1x" timestamp="1573538309151">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="personal.com" resolutions="1x" timestamp="1573649336857">
   <folder name="images">
-    <file name="1048.jpg" crc="332197912" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 2.png" crc="4050967932" ref="index">
+    <file name="1048.jpg" crc="240251759" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 4.png" crc="49564336" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="coping-with-stress-in-6-steps.jpg" crc="3980589037" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="asset 2.png" crc="4050967932" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="417880021" ref="index"/>
+    <file name="index.css" crc="3826640171" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,5 +27,5 @@
     <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
-  <file name="index.html" crc="404757249" seo="true" mt="1573538293393" redirect="true"/>
+  <file name="index.html" crc="165283322" seo="true" mt="1573649275335" redirect="true"/>
 </manifest>
