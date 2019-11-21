@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="personal.com" resolutions="1x" timestamp="1574321836103">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="personal.com" resolutions="1x" timestamp="1574321996437">
   <folder name="images">
     <file name="1048.jpg" crc="240251759" ref="index">
       <caption webpage="index" alt=""/>
@@ -16,7 +16,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4170149857" ref="index"/>
+    <file name="index.css" crc="103030738" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -27,5 +27,5 @@
     <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
-  <file name="index.html" crc="4241317823" seo="true" mt="1574321817554" redirect="true"/>
+  <file name="index.html" crc="3915846993" seo="true" mt="1574321988622" redirect="true"/>
 </manifest>
